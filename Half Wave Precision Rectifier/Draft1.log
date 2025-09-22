@@ -1,0 +1,21 @@
+Circuit: * C:\Users\dayus\Desktop\Full Wave Precision Rectifier\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Sep 22 19:29:08 2025
+Total elapsed time: 0.101 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6567
+traniter = 6542
+tranpoints = 2716
+accept = 2216
+rejected = 500
+matrix size = 15
+fillins = 7
+solver = Normal
+Matrix Compiler1: 1.12 KB object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.2
+
